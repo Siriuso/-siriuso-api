@@ -1,2 +1,2 @@
-# -siriuso-api
+# siriuso-api
 Siriuso API Monorepository
